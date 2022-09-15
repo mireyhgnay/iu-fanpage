@@ -1,4 +1,4 @@
-# 🔗 [IU Best Video]()
+# 🔗 [IU Best Video](https://mireyhgnay.github.io/iu-fanpage/)
 
 ## ✏ 프로젝트 소개
 기존에 있던 'Best Horror Scenes' 사이트의 디자인을 따서 만든
