@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iu-fanpage/static/css/main.23dca78f.chunk.css",
+    "main.js": "/iu-fanpage/static/js/main.57689f8d.chunk.js",
+    "main.js.map": "/iu-fanpage/static/js/main.57689f8d.chunk.js.map",
+    "runtime-main.js": "/iu-fanpage/static/js/runtime-main.e2bafd1a.js",
+    "runtime-main.js.map": "/iu-fanpage/static/js/runtime-main.e2bafd1a.js.map",
+    "static/js/2.e9af0f79.chunk.js": "/iu-fanpage/static/js/2.e9af0f79.chunk.js",
+    "static/js/2.e9af0f79.chunk.js.map": "/iu-fanpage/static/js/2.e9af0f79.chunk.js.map",
+    "index.html": "/iu-fanpage/index.html",
+    "precache-manifest.59c2e821399d7e9248b5542985adc02a.js": "/iu-fanpage/precache-manifest.59c2e821399d7e9248b5542985adc02a.js",
+    "service-worker.js": "/iu-fanpage/service-worker.js",
+    "static/css/main.23dca78f.chunk.css.map": "/iu-fanpage/static/css/main.23dca78f.chunk.css.map",
+    "static/js/2.e9af0f79.chunk.js.LICENSE.txt": "/iu-fanpage/static/js/2.e9af0f79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bafd1a.js",
+    "static/js/2.e9af0f79.chunk.js",
+    "static/css/main.23dca78f.chunk.css",
+    "static/js/main.57689f8d.chunk.js"
+  ]
+}
